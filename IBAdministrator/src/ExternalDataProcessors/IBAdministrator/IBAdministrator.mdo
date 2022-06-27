@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a4d6cb68-5047-41bd-8093-15ffd91519f6">
+  <producedTypes>
+    <objectType typeId="93f69bf4-48c7-4e3a-bbb0-22e5d823b0ec" valueTypeId="161a5c16-f6c6-4fab-b26c-900f77785073"/>
+  </producedTypes>
+  <name>IBAdministrator</name>
+  <synonym>
+    <key>ru</key>
+    <value>IBAdministrator</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="83934898-aaec-40ee-afb8-09407b825cce"/>
+  <defaultForm>ExternalDataProcessor.IBAdministrator.Form.Форма</defaultForm>
+  <forms uuid="8c8dd29b-f0d9-4d54-a9fa-afc5315e04d1">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>
